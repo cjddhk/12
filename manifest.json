@@ -1,11 +1,12 @@
 {
-	"id": "obsidian-textgenerator-plugin",
-	"name": "Text Generator",
-	"version": "0.7.50",
-	"minAppVersion": "1.6.0",
-	"description": "Text generation using AI",
-	"author": "Noureddine Haouari",
-	"authorUrl": "https://text-gen.com",
-	"isDesktopOnly": false,
-	"fundingUrl": "https://www.buymeacoffee.com/haouarine"
+  "id": "ctree-ai-plugin",
+  "name": "C-tree AI Assistant",
+  "version": "0.0.1",
+  "main": "ctree-plugin.js",
+  "minAppVersion": "1.6.0",
+  "description": "AI-assisted C-tree note management plugin",
+  "author": "Noureddine Haouari",
+  "authorUrl": "https://text-gen.com",
+  "isDesktopOnly": false,
+  "fundingUrl": "https://www.buymeacoffee.com/haouarine"
 }
